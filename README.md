@@ -8,13 +8,13 @@ Accessiibility was improved by adding alt text to the images and icons to allow 
 
 ## Tasks completed
 
-Semantic HTML elements were added
-Classes were consolidated where necessary
-Alt text was added to image elemtents
-Added in page links from nav bar
-Comments were added to allow for explanation throughout
-The CSS file was reordered to follow a more logical structure
-Footer was corrected
+Semantic HTML elements were added\
+Classes were consolidated where necessary\
+Alt text was added to image elemtents\
+Added in page links from nav bar\
+Comments were added to allow for explanation throughout\
+The CSS file was reordered to follow a more logical structure\
+Footer was corrected\
 
 ## Usage
 
@@ -26,4 +26,7 @@ Not applicable.
 
 ## Links and screenshot
 
-![screenshot of live website](../../../Downloads/screencapture-file-Users-jaynie-bootcamp-MODULE1-horiseon-code-refactor-index-html-2022-11-28-15_54_39.png "screenshot of the website")
+![screenshot of live website](horiseon-code-refactor/assets/images/screencapture-file-Users-jaynie-bootcamp-MODULE1-horiseon-code-refactor-index-html-2022-11-28-15_54_39.png "screenshot of the website")
+
+[GitHub Repo Link](https://github.com/JST92/horiseon-code-refactor "GitHub Repo Link")
+[Deployed Pages Link](https://jst92.github.io/horiseon-code-refactor/ "Deployed Pages Link")
