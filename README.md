@@ -26,7 +26,9 @@ Not applicable.
 
 ## Links and screenshot
 
-![screenshot of live website](horiseon-code-refactor/assets/images/screencapture-file-Users-jaynie-bootcamp-MODULE1-horiseon-code-refactor-index-html-2022-11-28-15_54_39.png "screenshot of the website")
+```md
+![Screenshot of webpage](horiseon-code-refactor/assets/images/assets/images/screencapture-file-Users-jaynie-bootcamp-MODULE1-horiseon-code-refactor-index-html-2022-11-28-15_54_39.png "Screenshot of the webpage")
+```
 
-[GitHub Repo Link](https://github.com/JST92/horiseon-code-refactor "GitHub Repo Link")
+[GitHub Repo Link](https://github.com/JST92/horiseon-code-refactor "GitHub Repo Link")\
 [Deployed Pages Link](https://jst92.github.io/horiseon-code-refactor/ "Deployed Pages Link")
